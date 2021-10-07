@@ -1,3 +1,9 @@
+layout: post
+title: "POST TITLE"
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CATEGORY-1 CATEGORY-2
+--- 
+
 ## Spring Boot AOP
 
 En esta ocasion aplicaremos el paradigma de Programación Orientada a Aspectos o AOP por sus siglas en inglés Aspect Oriented Programming.
